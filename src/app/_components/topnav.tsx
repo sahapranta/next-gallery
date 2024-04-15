@@ -6,9 +6,9 @@ import { SimpleUploadButton } from "./simple-upload-button";
 
 export function TopNav() {
     return (
-        <nav className="flex items-center justify-between w-full border-b p-4 text-xl font-semibold">
+        <nav className="flex items-center justify-between w-full border-b px-6 py-4 text-xl font-semibold">
             <div>Next Gallery</div>
-            <div className="flex gap-4">
+            <div className="flex items-center gap-4">
                 <SignedOut>
                     <SignInButton />
                 </SignedOut>
