@@ -8,8 +8,8 @@
 - [x] Setup database (vercel postgres)
 - [x] Building schema for database
 - [x] Add Authentication (w/ clerk)
-- [ ] Add image upload
-- [ ] *taint* (server only)
+- [x] Add image upload
+- [x] *taint* (server only)
 - [ ] Use Next/Image component
 - [ ] Error management (w/ sentry)
 - [ ] Routing/image page (parallel route)
