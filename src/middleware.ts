@@ -6,7 +6,8 @@ export default authMiddleware({
     // Allow signed out users to access the specified routes:
     publicRoutes: [
         '/',
-        '/api/uploadthing'
+        '/api/uploadthing',
+        '/api/sentry-example-api',
     ],
 });
 
