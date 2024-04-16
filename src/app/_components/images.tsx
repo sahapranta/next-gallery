@@ -14,7 +14,7 @@ export async function Images() {
 
     return (
         <div className="h-screen py-20 w-full z-10">
-            <LayoutGrid cards={cards} />            
+            <LayoutGrid cards={cards} />
         </div>
     );
 

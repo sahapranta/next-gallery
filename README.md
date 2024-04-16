@@ -14,5 +14,6 @@
 - [x] Error management (w/ sentry)
 - [x] Routing/image page (parallel route)
 - [x] Delete button (w/ server action)
-- [ ] Analytics (posthog)
-- [ ] Rate limiting (upstash)
+- [x] Analytics (posthog)
+- [x] Rate limiting (upstash)
+- [ ] infinite scroll
