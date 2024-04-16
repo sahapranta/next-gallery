@@ -7,6 +7,7 @@ export default authMiddleware({
     publicRoutes: [
         '/',
         '/api/uploadthing',
+        '/ingest',
         '/api/sentry-example-api',
     ],
 });
