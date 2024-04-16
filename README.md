@@ -1,5 +1,8 @@
 # Next Gallery App
 
+![image](https://github.com/sahapranta/next-gallery/assets/26641709/424e995e-c384-46a1-8769-5882696a4c88)
+
+
 ## TODO
 
 - [x] Make it deploy
