@@ -6,7 +6,7 @@ import { and, eq } from "drizzle-orm";
 import { redirect } from "next/navigation";
 import analyticsServerClient from "./analytics";
 
-export async function getMyImages(page: number = 0, limit: number = 10) {
+export async function getMyImages(page: number = 1, limit: number = 10) {
     const user = auth();
 
     if (!user.userId) throw new Error("Unauthorized");
